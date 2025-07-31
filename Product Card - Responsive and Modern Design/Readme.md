@@ -1,5 +1,8 @@
 # Product Card - Responsive and Modern Design
 
+![Mobile Design Preview](design/mobile-design.jpg)
+![Desktop Design Preview](design/desktop-design.jpg)
+
 This project is a simple, elegant product card built using modern web technologies: HTML5 and CSS3. It demonstrates how to create a clean, minimal, and responsive design using **Flexbox** for layout and CSS media queries for responsiveness.
 
 ## Features
